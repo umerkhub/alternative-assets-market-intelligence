@@ -1,0 +1,46 @@
+fund_id,firm_id,fund_name,strategy,vintage_year,fund_size_usd
+1,1,Sequoia Capital Fund 1,Private Equity,2020,2028000000
+2,2,Accel Fund 6,Venture Capital,2018,3656000000
+3,3,Andreessen Horowitz Fund 1,Venture Capital,2020,2105000000
+4,4,Tiger Global Management Fund 5,Growth Equity,2023,2005000000
+5,5,Lightspeed Venture Partners Fund 5,Private Equity,2017,1507000000
+6,5,Lightspeed Venture Partners Fund 6,Late Stage VC,2022,2476000000
+7,6,Benchmark Capital Fund 2,Private Equity,2018,959000000
+8,7,Insight Partners Fund 1,Private Equity,2022,2366000000
+9,7,Insight Partners Fund 1,Late Stage VC,2018,3300000000
+10,8,SoftBank Vision Fund Fund 5,Private Equity,2022,4929000000
+11,9,DST Global Fund 6,Venture Capital,2017,2066000000
+12,10,Index Ventures Fund 1,Growth Equity,2018,3313000000
+13,10,Index Ventures Fund 3,Late Stage VC,2022,1532000000
+14,11,Balderton Capital Fund 3,Growth Equity,2021,784000000
+15,11,Balderton Capital Fund 5,Growth Equity,2020,1538000000
+16,12,Atomico Fund 4,Private Equity,2020,2856000000
+17,12,Atomico Fund 1,Growth Equity,2017,2784000000
+18,13,Northzone Fund 3,Venture Capital,2020,4846000000
+19,13,Northzone Fund 6,Private Equity,2020,4289000000
+20,14,GGV Capital Fund 6,Late Stage VC,2019,2369000000
+21,14,GGV Capital Fund 2,Growth Equity,2021,4988000000
+22,15,Hillhouse Capital Fund 5,Late Stage VC,2022,1996000000
+23,15,Hillhouse Capital Fund 2,Late Stage VC,2018,585000000
+24,16,Matrix Partners Fund 2,Growth Equity,2023,720000000
+25,17,Kalaari Capital Fund 4,Late Stage VC,2021,4732000000
+26,17,Kalaari Capital Fund 1,Venture Capital,2021,2986000000
+27,18,Nexus Venture Partners Fund 3,Late Stage VC,2019,3916000000
+28,19,Blume Ventures Fund 6,Private Equity,2019,4358000000
+29,20,Elevation Capital Fund 6,Private Equity,2020,1452000000
+30,21,Accel India Fund 2,Venture Capital,2022,4202000000
+31,21,Accel India Fund 1,Venture Capital,2022,2719000000
+32,22,Lightspeed India Fund 1,Growth Equity,2018,901000000
+33,23,Chiratae Ventures Fund 1,Growth Equity,2019,4093000000
+34,23,Chiratae Ventures Fund 5,Growth Equity,2021,4522000000
+35,24,Prime Venture Partners Fund 2,Growth Equity,2021,3468000000
+36,24,Prime Venture Partners Fund 6,Private Equity,2024,4439000000
+37,25,Vertex Ventures Fund 1,Growth Equity,2020,724000000
+38,25,Vertex Ventures Fund 3,Venture Capital,2020,2004000000
+39,26,Temasek Holdings Fund 1,Venture Capital,2020,752000000
+40,27,B Capital Group Fund 3,Venture Capital,2020,2481000000
+41,28,Khosla Ventures Fund 2,Growth Equity,2024,2190000000
+42,28,Khosla Ventures Fund 4,Late Stage VC,2020,972000000
+43,29,General Catalyst Fund 6,Late Stage VC,2022,3669000000
+44,30,Greylock Partners Fund 4,Venture Capital,2018,696000000
+45,30,Greylock Partners Fund 4,Private Equity,2018,2236000000

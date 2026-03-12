@@ -1,0 +1,121 @@
+deal_id,fund_id,portfolio_company,clean_industry,deal_year,deal_value_millions
+1,7,Notion,Consumer / E-commerce,2025,76
+2,37,Epic Games,Software / SaaS,2022,241
+3,20,Brex,Artificial Intelligence,2025,418
+4,20,Bolt,Artificial Intelligence,2018,338
+5,25,Wise,FinTech,2019,479
+6,33,Brex,Software / SaaS,2024,253
+7,3,Hugging Face,Consumer / E-commerce,2024,467
+8,35,Canva,Software / SaaS,2024,6
+9,23,Palantir,Mobility / Transportation,2025,151
+10,5,Epic Games,Gaming / Entertainment,2020,102
+11,20,Ola,Consumer / E-commerce,2018,301
+12,16,Wise,FinTech,2023,34
+13,40,Canva,Gaming / Entertainment,2020,34
+14,25,DeepL,Artificial Intelligence,2020,40
+15,3,Flipkart,Consumer / E-commerce,2024,66
+16,25,Checkout.com,Consumer / E-commerce,2018,322
+17,12,Razorpay,Software / SaaS,2023,483
+18,12,Nubank,Consumer / E-commerce,2023,127
+19,15,Nubank,Software / SaaS,2020,348
+20,14,Freshworks,Gaming / Entertainment,2023,480
+21,44,Flipkart,FinTech,2025,323
+22,33,Checkout.com,Artificial Intelligence,2019,280
+23,2,Figma,Mobility / Transportation,2020,482
+24,15,PhonePe,Artificial Intelligence,2021,194
+25,36,Ola,Software / SaaS,2025,431
+26,33,Wise,Mobility / Transportation,2018,346
+27,22,Bolt,Mobility / Transportation,2019,485
+28,4,Zomato,Mobility / Transportation,2019,460
+29,21,Byju's,Software / SaaS,2022,149
+30,12,Figma,Consumer / FoodTech,2021,356
+31,42,Nubank,Gaming / Entertainment,2022,468
+32,41,Canva,Artificial Intelligence,2024,429
+33,4,Chime,FinTech,2018,175
+34,36,Zomato,Mobility / Transportation,2020,384
+35,25,Scale AI,Software / SaaS,2018,62
+36,45,Flipkart,Software / SaaS,2018,432
+37,20,Snowflake,Software / SaaS,2024,70
+38,11,Databricks,Mobility / Transportation,2023,465
+39,8,Databricks,Consumer / FoodTech,2021,354
+40,37,Brex,Artificial Intelligence,2023,404
+41,41,Bolt,Software / SaaS,2020,478
+42,37,Brex,Software / SaaS,2020,456
+43,26,Discord,FinTech,2020,382
+44,19,Meesho,Software / SaaS,2021,141
+45,35,OpenAI,Artificial Intelligence,2024,451
+46,45,Databricks,Gaming / Entertainment,2021,107
+47,31,Perplexity,Consumer / FoodTech,2022,425
+48,4,Instacart,Consumer / E-commerce,2018,342
+49,42,Notion,Software / SaaS,2023,147
+50,19,Flipkart,Mobility / Transportation,2023,333
+51,32,DeepL,Software / SaaS,2023,485
+52,34,SpaceX,Artificial Intelligence,2022,96
+53,30,Nubank,FinTech,2019,310
+54,41,Epic Games,Consumer / FoodTech,2023,228
+55,39,DeepL,Artificial Intelligence,2024,465
+56,3,Checkout.com,Consumer / E-commerce,2022,27
+57,18,Epic Games,FinTech,2021,191
+58,38,Epic Games,Artificial Intelligence,2023,324
+59,32,CRED,Artificial Intelligence,2022,264
+60,37,Freshworks,Software / SaaS,2023,211
+61,43,Ola,Software / SaaS,2021,220
+62,26,Palantir,Software / SaaS,2022,212
+63,16,Bolt,FinTech,2022,151
+64,1,Figma,Software / SaaS,2023,243
+65,18,Scale AI,Gaming / Entertainment,2021,266
+66,30,Hugging Face,Software / SaaS,2019,150
+67,3,DeepL,Consumer / FoodTech,2019,424
+68,11,Brex,Mobility / Transportation,2021,417
+69,11,Notion,Software / SaaS,2018,28
+70,8,Brex,Gaming / Entertainment,2019,238
+71,43,Discord,Consumer / E-commerce,2024,258
+72,37,Robinhood,Consumer / E-commerce,2020,340
+73,17,Stripe,Artificial Intelligence,2024,117
+74,32,Anthropic,Gaming / Entertainment,2018,290
+75,44,Brex,Artificial Intelligence,2025,73
+76,11,Perplexity,Consumer / FoodTech,2025,318
+77,45,DeepL,Software / SaaS,2025,464
+78,3,OpenAI,Gaming / Entertainment,2025,137
+79,13,Brex,Mobility / Transportation,2025,325
+80,44,Brex,Mobility / Transportation,2025,44
+81,16,Ola,Consumer / E-commerce,2022,176
+82,24,CRED,Artificial Intelligence,2020,82
+83,40,Instacart,Software / SaaS,2020,366
+84,2,Figma,Artificial Intelligence,2024,213
+85,4,Meesho,Gaming / Entertainment,2024,36
+86,42,Figma,Software / SaaS,2024,468
+87,3,SpaceX,Software / SaaS,2025,8
+88,22,PhonePe,Mobility / Transportation,2024,441
+89,15,Discord,Consumer / E-commerce,2025,117
+90,34,Chime,Software / SaaS,2025,19
+91,23,Palantir,Consumer / FoodTech,2024,375
+92,16,OpenAI,Gaming / Entertainment,2020,323
+93,15,Wise,FinTech,2024,308
+94,5,Checkout.com,FinTech,2019,334
+95,35,Epic Games,Software / SaaS,2025,98
+96,32,Canva,Mobility / Transportation,2024,172
+97,41,Figma,Gaming / Entertainment,2023,177
+98,6,Palantir,Mobility / Transportation,2024,134
+99,10,Razorpay,Gaming / Entertainment,2018,388
+100,22,Wise,FinTech,2023,119
+101,18,Flipkart,FinTech,2018,491
+102,29,Brex,Consumer / E-commerce,2018,323
+103,37,UiPath,Consumer / E-commerce,2020,247
+104,40,Swiggy,Consumer / E-commerce,2025,363
+105,33,Nubank,Consumer / FoodTech,2020,315
+106,32,Swiggy,Software / SaaS,2022,60
+107,24,SpaceX,Mobility / Transportation,2024,208
+108,32,Notion,Artificial Intelligence,2021,57
+109,21,Freshworks,Artificial Intelligence,2018,182
+110,11,Wise,Software / SaaS,2023,40
+111,7,DeepL,Consumer / FoodTech,2018,439
+112,20,Discord,Gaming / Entertainment,2019,226
+113,7,Snowflake,Gaming / Entertainment,2020,227
+114,18,Anthropic,Mobility / Transportation,2025,243
+115,42,Epic Games,Mobility / Transportation,2023,441
+116,43,Brex,Artificial Intelligence,2022,456
+117,45,Scale AI,Consumer / E-commerce,2025,296
+118,30,Palantir,Consumer / FoodTech,2018,258
+119,7,CRED,Software / SaaS,2025,113
+120,44,PhonePe,Mobility / Transportation,2023,148
